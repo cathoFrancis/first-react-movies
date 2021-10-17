@@ -2,7 +2,7 @@
   "name": "1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cathoFrancic.github.io/first-react-movies",
+  "homepage": "https://cathofrancis.github.io/first-react-movies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
